@@ -1,1 +1,11 @@
-count = x;
+count = 2 * (b - 1) - 1 {a > 0}
+if (x < y)
+	x = x + 1
+else
+	x = 3 * x
+	{x < 0}
+y = a * 2 * (b - 1) - 1
+a = 3 * (2 * b + a);
+if (20 > 18) {
+  System.out.println("20 is greater than 18");
+}	
